@@ -1,0 +1,19 @@
+title:        Andrew G Johnson.com
+name:         Andrew G Johnson.com
+description:  Andrew G Johnson is a software engineer and web developer from Winnipeg, Manitoba, Canada
+author:       Andrew G. Johnson
+author_email: andrew@andrewgjohnson.com
+email:        andrew@andrewgjohnson.com
+url:          "https://www.andrewgjohnson.com"
+includes_dir: .
+layouts_dir:  layouts
+exclude:      [
+               .github,
+               .github/*.md,
+               .github/*.yml,
+               .github/CODEOWNERS,
+               CNAME,
+               layouts,
+               layouts/*,
+               README.md
+              ]
