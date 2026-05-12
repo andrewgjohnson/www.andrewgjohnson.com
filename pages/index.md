@@ -35,7 +35,7 @@ permalink: /
             <a href="https://www.linkedin.com/in/iamandrewgjohnson/" title="@iamandrewgjohnson on LinkedIn">@iamandrewgjohnson on LinkedIn<i></i></a>
         </li>
         <li id="contact-goodreads">
-            <a href="https://www.goodreads.com/user/show/26094478-andrew-g-johnson" title="Andrew G Johnson on Goodreads">Andrew G Johnson on Goodreads<i></i></a>
+            <a href="https://www.goodreads.com/andrewgjohnson" title="@andrewgjohnson on Goodreads">@andrewgjohnson on Goodreads<i></i></a>
         </li>
     </ul>
 </div>
