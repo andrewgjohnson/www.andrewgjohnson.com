@@ -1,6 +1,6 @@
 ---
 layout:    layout
-title:     Andrew G Johnson.com: Software Engineer, Web Developer and Technologist
+title:     Andrew G Johnson • Software Engineer, Web Developer and Technologist
 permalink: /
 ---
 
