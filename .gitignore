@@ -16,3 +16,7 @@ _site
 .settings/*
 composer.lock
 vendor
+node_modules
+node_modules/*
+.jekyll-cache
+.jekyll-cache/*

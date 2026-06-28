@@ -6,14 +6,19 @@ author_email: andrew@andrewgjohnson.com
 email:        andrew@andrewgjohnson.com
 url:          "https://www.andrewgjohnson.com"
 includes_dir: .
-layouts_dir:  layouts
+layouts_dir:  _layouts
 exclude:      [
                .github,
                .github/*.md,
                .github/*.yml,
                .github/CODEOWNERS,
                CNAME,
+               gulpfile.js,
                layouts,
                layouts/*,
+               node_modules,
+               node_modules/*,
+               package.json,
+               package-lock.json,
                README.md
               ]

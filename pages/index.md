@@ -1,58 +1,173 @@
 ---
-layout:    layout
+layout:    default
 title:     Andrew G Johnson • Software Engineer, Web Developer and Technologist
 permalink: /
 ---
 
 <div class="block">
-    <p>I am a software engineer, web developer and technologist from Winnipeg, Manitoba, Canada. 🍁 I do consulting work through <a href="https://www.createtoconvert.com/" title="Create to Convert">Create to Convert</a>. My contact details, social media accounts and open source projects can be found below.</p>
+    <p>
+        I am a software engineer, web developer and technologist from Winnipeg, Manitoba, Canada. 🍁 I do consulting work through <a href="https://www.createtoconvert.com/" title="Create to Convert">Create to Convert</a>. My contact details, social media accounts and open source projects can be found below.
+    </p>
 </div>
 <div class="block">
     <h2>Contact and Social Media</h2>
     <ul id="contact">
-        <li id="contact-email">
-            <a href="mailto:andrew@andrewgjohnson.com" title="Email andrew@andrewgjohnson.com">Email andrew@andrewgjohnson.com<i></i></a>
+        <li>
+            <a href="mailto:andrew@andrewgjohnson.com" title="Email: andrew@andrewgjohnson.com">
+                <small>Email</small>
+                <strong>andrew@andrewgjohnson.com</strong>
+            </a>
         </li>
-        <li id="contact-github">
-            <a href="https://github.com/andrewgjohnson" title="@andrewgjohnson on GitHub">@andrewgjohnson on GitHub<i></i></a>
+        <li>
+            <a href="https://github.com/andrewgjohnson" title="GitHub: andrewgjohnson">
+                <small>GitHub</small>
+                <strong>andrewgjohnson</strong>
+            </a>
         </li>
-        <li id="contact-packagist">
-            <a href="https://packagist.org/users/andrewgjohnson/" title="andrewgjohnson on Packagist">andrewgjohnson on Packagist<i></i></a>
+        <li>
+            <a href="https://packagist.org/users/andrewgjohnson/" title="Packagist: andrewgjohnson">
+                <small>Packagist</small>
+                <strong>andrewgjohnson</strong>
+            </a>
         </li>
-        <li id="contact-npm">
-            <a href="https://www.npmjs.com/~andrewgjohnsonjs" title="~andrewgjohnsonjs on npm">~andrewgjohnsonjs on npm<i></i></a>
+        <li>
+            <a href="https://www.npmjs.com/~andrewgjohnsonjs" title="npm: andrewgjohnsonjs">
+                <small>npm</small>
+                <strong>andrewgjohnsonjs</strong>
+            </a>
         </li>
-        <li id="contact-rubygems">
-            <a href="https://rubygems.org/profiles/andrewgjohnson" title="andrewgjohnson on RubyGems">andrewgjohnson on RubyGems<i></i></a>
+        <li>
+            <a href="https://rubygems.org/profiles/andrewgjohnson" title="RubyGems: andrewgjohnson">
+                <small>RubyGems</small>
+                <strong>andrewgjohnson</strong>
+            </a>
         </li>
-        <li id="contact-facebook">
-            <a href="https://www.facebook.com/andrewgjohnson" title="@andrewgjohnson on Facebook">@andrewgjohnson on Facebook<i></i></a>
+        <li>
+            <a href="https://www.linkedin.com/in/iamandrewgjohnson/" title="LinkedIn: in/iamandrewgjohnson">
+                <small>LinkedIn</small>
+                <strong>in/iamandrewgjohnson</strong>
+            </a>
         </li>
-        <li id="contact-x">
-            <a href="https://x.com/andrewgjohnson" title="@andrewgjohnson on 𝕏.com">@andrewgjohnson on 𝕏.com<i></i></a>
+        <li>
+            <a href="https://www.facebook.com/andrewgjohnson" title="Facebook: andrewgjohnson">
+                <small>Facebook</small>
+                <strong>andrewgjohnson</strong>
+            </a>
         </li>
-        <li id="contact-instagram">
-            <a href="https://instagram.com/andrewgjohnson" title="@andrewgjohnson on Instagram">@andrewgjohnson on Instagram<i></i></a>
+        <li>
+            <a href="https://x.com/andrewgjohnson" title="𝕏.com: andrewgjohnson">
+                <small>𝕏.com</small>
+                <strong>andrewgjohnson</strong>
+            </a>
         </li>
-        <li id="contact-linkedin">
-            <a href="https://www.linkedin.com/in/iamandrewgjohnson/" title="in/iamandrewgjohnson on LinkedIn">in/iamandrewgjohnson on LinkedIn<i></i></a>
+        <li>
+            <a href="https://instagram.com/andrewgjohnson" title="Instagram: andrewgjohnson">
+                <small>Instagram</small>
+                <strong>andrewgjohnson</strong>
+            </a>
         </li>
-        <li id="contact-goodreads">
-            <a href="https://www.goodreads.com/andrewgjohnson" title="andrewgjohnson on Goodreads">andrewgjohnson on Goodreads<i></i></a>
+        <li>
+            <a href="https://www.goodreads.com/andrewgjohnson" title="Goodreads: andrewgjohnson">
+                <small>Goodreads</small>
+                <strong>andrewgjohnson</strong>
+            </a>
         </li>
     </ul>
 </div>
-<div class="block">
+<div class="block with-avatar">
     <h2>Open Source Software</h2>
-    <p>
-        <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/DOWNLOADS.md#packagist--php" title="Packagist Downloads"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/packagist.png" alt="Packagist Downloads" class="badge" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/DOWNLOADS.md#npm--javascript" title="npm Downloads"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/npm.png" alt="npm Downloads" class="badge" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/DOWNLOADS.md#rubygems--ruby" title="RubyGems Downloads"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/rubygems.png" alt="RubyGems Downloads" class="badge" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/JEKYLL.md" title="Jekyll Theme Installs"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/jekyll.png" alt="Jekyll Theme Installs" class="badge" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/STARGAZERS.md" title="Stargazers"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/stargazers.png" alt="Stargazers" class="badge" /></a>
+    <p id="badges">
+        <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/DOWNLOADS.md#packagist--php" title="Packagist Downloads"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/packagist.png" alt="Packagist Downloads" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/DOWNLOADS.md#npm--javascript" title="npm Downloads"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/npm.png" alt="npm Downloads" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/DOWNLOADS.md#rubygems--ruby" title="RubyGems Downloads"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/rubygems.png" alt="RubyGems Downloads" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/JEKYLL.md" title="Jekyll Theme Installs"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/jekyll.png" alt="Jekyll Theme Installs" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/STARGAZERS.md" title="Stargazers"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/stargazers.png" alt="Stargazers" /></a>
     </p>
-    <p><a href="https://agjgd.org/" title="agjgd"><img src="https://agjgd.org/documentation/images/avatar.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="agjgd" class="project-image" /><strong>agjgd</strong></a> is a collection of projects for <a href="https://www.php.net" title="PHP">PHP</a>’s <a href="https://www.php.net/manual/book.image.php" title="GD">GD</a> library including <a href="https://imagettftextblur.agjgd.org/" title="imagettftextblur">image&#173;ttf&#173;text&#173;blur</a>, <a href="https://imagettftextgradient.agjgd.org/" title="imagettftextgradient">image&#173;ttf&#173;text&#173;gradient</a>, <a href="https://imageblendedcolorallocate.agjgd.org/" title="imageblendedcolorallocate">image&#173;blended&#173;color&#173;allocate</a>, <a href="https://imagecolorallocatefromstring.agjgd.org/" title="imagecolorallocatefromstring">image&#173;color&#173;allocate&#173;from&#173;string</a>, <a href="https://imagegradientrectangle.agjgd.org/" title="imagegradientrectangle">image&#173;gradient&#173;rectangle</a> and <a href="https://linebreaks4imagettftext.agjgd.org/" title="linebreaks4imagettftext">line&#173;breaks&#173;4&#173;image&#173;ttf&#173;text</a>. Available on <a href="https://github.com/agjgd/agjgd" title="GitHub">GitHub</a>, <a href="https://packagist.org/packages/agjgd/agjgd" title="Packagist">Packagist</a> and <a href="https://x.com/agjgdphp" title="𝕏.com">𝕏.com</a>.</p>
-    <p><a href="https://agjjQuery.org/" title="agjjQuery"><img src="https://agjjquery.org/documentation/images/avatar.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="agjjQuery" class="project-image" /><strong>agjjQuery</strong></a> is a collection of plugins for Javascript’s <a href="https://jquery.com/" title="jQuery">jQuery</a> library including <a href="https://agjCalendar.agjjQuery.org/" title="agjCalendar">agj&#173;Calendar</a>. Available on <a href="https://github.com/agjjQuery/agjjQuery" title="GitHub">GitHub</a>, <a href="https://www.npmjs.com/package/@agjjquery/agjjquery" title="npm">npm</a> and <a href="https://x.com/agjjQuery" title="𝕏.com">𝕏.com</a>.</p>
-    <p><a href="https://github.com/andrewgjohnson/open-source-documentation-jekyll-theme" title="Open Source Documentation (Jekyll Theme)"><img src="/open-source-documentation-jekyll-theme.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="Open Source Documentation Jekyll Theme" class="project-image" /><strong>Open Source Documentation (Jekyll Theme)</strong></a> is a <a href="https://jekyllrb.com/" title="Jekyll">Jekyll</a> theme used for the documentation websites of my open source projects. It was released under <a href="https://opensource.org/licenses/mit/" title="The MIT License">the MIT license</a> so others may use it as well. Available on <a href="https://github.com/andrewgjohnson/open-source-documentation-jekyll-theme" title="GitHub">GitHub</a> and <a href="https://rubygems.org/gems/open-source-documentation-jekyll-theme" title="RubyGems">RubyGems</a>.</p>
-    <b style="clear:both;display:block;height:1px;width:1px"></b>
+    <p>
+        <a href="https://agjgd.org/" title="agjgd"><img src="/agjgd.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="agjgd" class="avatar" /><strong>agjgd</strong></a> is a collection of projects for <a href="https://www.php.net" title="PHP">PHP</a>’s <a href="https://www.php.net/manual/book.image.php" title="GD">GD</a> library. They were released under <a href="https://opensource.org/licenses/mit/" title="The MIT License">the MIT license</a>.
+    </p>
+    <ul class="projects">
+        <li>
+            <a href="https://imagettftextblur.agjgd.org/" title="imagettftextblur">imagettftextblur</a>
+        </li>
+        <li>
+            <a href="https://imagettftextgradient.agjgd.org/" title="imagettftextgradient">imagettftextgradient</a>
+        </li>
+        <li>
+            <a href="https://imageblendedcolorallocate.agjgd.org/" title="imageblendedcolorallocate">imageblendedcolorallocate</a>
+        </li>
+        <li>
+            <a href="https://imagecolorallocatefromstring.agjgd.org/" title="imagecolorallocatefromstring">imagecolorallocatefromstring</a>
+        </li>
+        <li>
+            <a href="https://imagegradientrectangle.agjgd.org/" title="imagegradientrectangle">imagegradientrectangle</a>
+        </li>
+        <li>
+            <a href="https://linebreaks4imagettftext.agjgd.org/" title="linebreaks4imagettftext">linebreaks4imagettftext</a>
+        </li>
+    </ul>
+    <ul class="platforms">
+        <li>
+            <a href="https://agjgd.org/" title="Website">Website↗</a>
+        </li>
+        <li>
+            <a href="https://github.com/agjgd/agjgd" title="GitHub">GitHub↗</a>
+        </li>
+        <li>
+            <a href="https://packagist.org/packages/agjgd/agjgd" title="Packagist">Packagist↗</a>
+        </li>
+        <li>
+            <a href="https://x.com/agjgdphp" title="𝕏.com">𝕏.com↗</a>
+        </li>
+    </ul>
 </div>
-<div class="block">
+<div class="block with-avatar">
+    <p>
+        <a href="https://agjjQuery.org/" title="agjjQuery"><img src="/agjjQuery.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="agjjQuery" class="avatar" /><strong>agjjQuery</strong></a> is a collection of plugins for the <a href="https://jquery.com/" title="jQuery">jQuery</a> JavaScript library. They were released under <a href="https://opensource.org/licenses/mit/" title="The MIT License">the MIT license</a>.
+    </p>
+    <ul class="projects">
+        <li>
+            <a href="https://agjCalendar.agjjQuery.org/" title="agjCalendar">agjCalendar</a>
+        </li>
+    </ul>
+    <ul class="platforms">
+        <li>
+            <a href="https://agjjQuery.org/" title="Website">Website↗</a>
+        </li>
+        <li>
+            <a href="https://github.com/agjjQuery/agjjQuery" title="GitHub">GitHub↗</a>
+        </li>
+        <li>
+            <a href="https://www.npmjs.com/package/@agjjquery/agjjquery" title="npm">npm↗</a>
+        </li>
+        <li>
+            <a href="https://x.com/agjjQuery" title="𝕏.com">𝕏.com↗</a>
+        </li>
+    </ul>
+</div>
+<div class="block with-avatar">
+    <p>
+        <a href="https://github.com/andrewgjohnson/open-source-documentation-jekyll-theme" title="Open Source Documentation (Jekyll Theme)"><img src="/open-source-documentation-jekyll-theme.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="Open Source Documentation Jekyll Theme" class="avatar" /><strong>Open Source Documentation (Jekyll Theme)</strong></a> is a <a href="https://jekyllrb.com/" title="Jekyll">Jekyll</a> theme used for the documentation websites of my open source projects. It was released under <a href="https://opensource.org/licenses/mit/" title="The MIT License">the MIT license</a>.
+    </p>
+    <ul class="platforms">
+        <li>
+            <a href="https://github.com/andrewgjohnson/open-source-documentation-jekyll-theme" title="GitHub">GitHub↗</a>
+        </li>
+        <li>
+            <a href="https://rubygems.org/gems/open-source-documentation-jekyll-theme" title="RubyGems">RubyGems↗</a>
+        </li>
+    </ul>
+</div>
+<div class="block with-avatar" id="ctc-block">
     <h2>Consulting Company</h2>
-    <p><a href="https://www.createtoconvert.com/" title="Create to Convert"><img src="/create-to-convert.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="Create to Convert" class="project-image" /><strong>Create to Convert</strong></a> is a full-service web development company, specializing in developing high-functioning e-commerce websites in the online travel and ticketing industries. Increasing conversions is the name of the game. No matter the industry, the end goal is always to increase sales, and this continues to be the primary focus when developing web solutions for your business.</p>
+    <p>
+        <a href="https://www.createtoconvert.com/" title="Create to Convert"><img src="/create-to-convert.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="Create to Convert" class="avatar" /><strong>Create to Convert</strong></a> is a full-service web development company, specializing in developing high-functioning e-commerce websites in the online travel and ticketing industries. Increasing conversions is the name of the game. No matter the industry, the end goal is always to increase sales, and this continues to be the primary focus when developing web solutions for your business.
+    </p>
+    <ul class="platforms">
+        <li>
+            <a href="https://www.createtoconvert.com/" title="Website">Website↗</a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/company/create-to-convert/" title="LinkedIn">LinkedIn↗</a>
+        </li>
+        <li>
+            <a href="https://x.com/createtoconvert" title="𝕏.com">𝕏.com↗</a>
+        </li>
+    </ul>
 </div>

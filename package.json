@@ -1,0 +1,16 @@
+{
+  "name": "www.andrewgjohnson.com",
+  "private": true,
+  "author": "Andrew G. Johnson <andrew@andrewgjohnson.com>",
+  "description": "This repository powers the [andrewgjohnson.com](https://www.andrewgjohnson.com/) website.",
+  "homepage": "https://www.andrewgjohnson.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewgjohnson/www.andrewgjohnson.com.git"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1"
+  }
+}
