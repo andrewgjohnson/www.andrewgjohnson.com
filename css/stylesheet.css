@@ -86,6 +86,9 @@ ul.platforms a                                { display:inline-block;font-family
 }
 
 @media only screen and (max-width : 699px) {
+    div.with-avatar p                         { padding-right:10px }
+    div.with-avatar img.avatar                { float:right;position:relative;right:auto;top:auto }
+
     #contact                                  { border-top-width:8px;height:400px }
     #contact li                               { height:40px;line-height:40px;width:100% }
     #contact li:nth-child(1)                  { left:0;right:0;top:0 }

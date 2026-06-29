@@ -84,12 +84,6 @@ permalink: /
     </p>
     <ul class="projects">
         <li>
-            <a href="https://imagettftextblur.agjgd.org/" title="imagettftextblur">imagettftextblur</a>
-        </li>
-        <li>
-            <a href="https://imagettftextgradient.agjgd.org/" title="imagettftextgradient">imagettftextgradient</a>
-        </li>
-        <li>
             <a href="https://imageblendedcolorallocate.agjgd.org/" title="imageblendedcolorallocate">imageblendedcolorallocate</a>
         </li>
         <li>
@@ -97,6 +91,12 @@ permalink: /
         </li>
         <li>
             <a href="https://imagegradientrectangle.agjgd.org/" title="imagegradientrectangle">imagegradientrectangle</a>
+        </li>
+        <li>
+            <a href="https://imagettftextblur.agjgd.org/" title="imagettftextblur">imagettftextblur</a>
+        </li>
+        <li>
+            <a href="https://imagettftextgradient.agjgd.org/" title="imagettftextgradient">imagettftextgradient</a>
         </li>
         <li>
             <a href="https://linebreaks4imagettftext.agjgd.org/" title="linebreaks4imagettftext">linebreaks4imagettftext</a>
@@ -124,6 +124,9 @@ permalink: /
     <ul class="projects">
         <li>
             <a href="https://agjCalendar.agjjQuery.org/" title="agjCalendar">agjCalendar</a>
+        </li>
+        <li>
+            <a href="https://github.com/agjjQuery/coding-style" title="Coding Style">Coding Style</a>
         </li>
     </ul>
     <ul class="platforms">
