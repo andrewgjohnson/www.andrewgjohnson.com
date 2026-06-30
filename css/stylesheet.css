@@ -54,7 +54,7 @@ ul.platforms a                                { display:inline-block;font-family
 #contact li:nth-child(9)                      { left:50%;position:absolute;right:0;top:150px;width:auto }
 #contact li:nth-child(10)                     { left:50%;position:absolute;right:0;top:200px;width:auto }
 #contact a:hover                              { text-decoration:none }
-#contact small                                { color:#999999;display:block;font-family:"Space Mono","Courier New","Courier",monospace;font-size:12px;padding:0 0 0 10px;width:90px }
+#contact small                                { color:#999999;display:block;font-family:"Space Mono","Courier New","Courier",monospace;font-size:12px;letter-spacing:1px;padding:0 0 0 10px;text-transform:uppercase;width:90px }
 #contact strong                               { bottom:0;color:#000000;display:block;font-size:17px;font-weight:normal;left:100px;right:0;overflow:hidden;position:absolute;text-overflow:ellipsis;top:0 }
 #contact a:hover strong                       { color:#2588f8;text-decoration:underline }
 
