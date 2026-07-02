@@ -60,7 +60,10 @@ ul.platforms a                                { display:inline-block;font-family
 
 #badges                                       { padding:10px 10px 0 }
 
-#footer                                       { color:#999999;padding:20px 0;text-align:center }
+#footer                                       { color:#999999;font-family:"Space Mono","Courier New","Courier",monospace;font-size:12px;padding:20px 0;text-align:center }
+#footer a                                     { color:#999999 }
+#footer a:hover                               { color:#2588f8 }
+#footer span                                  { font-family:"Hanken Grotesk","Arial",sans-serif }
 
 #cover-image                                  { background-color:#bfd0de;background-image:url("/cover-photo.jpg");background-position:50% 50%;background-repeat:no-repeat;background-size:cover;height:400px;left:0;position:absolute;right:0;top:0;z-index:2 }
 #cover-image:before,#cover-image:after        { background-image:linear-gradient(to bottom,rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%);background-image:-moz-linear-gradient(top,rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%);background-image:-ms-linear-gradient(top,rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%);background-image:-o-linear-gradient(top,rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,rgba(0,0,0,0)),color-stop(100%,rgba(0,0,0,0.5)));background-image:-webkit-linear-gradient(top,rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%);bottom:0;content:"";display:block;height:100px;left:0;position:absolute;right:0 }
