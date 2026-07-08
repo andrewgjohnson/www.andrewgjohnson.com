@@ -104,4 +104,5 @@ ul.platforms a                                { display:inline-block;font-family
     #contact li:nth-child(8)                  { left:0;right:0;top:280px }
     #contact li:nth-child(9)                  { left:0;right:0;top:320px }
     #contact li:nth-child(10)                 { left:0;right:0;top:360px }
+    #contact strong                           { line-height:36px }
 }
