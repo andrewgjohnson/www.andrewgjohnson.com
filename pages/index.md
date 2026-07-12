@@ -119,7 +119,7 @@ permalink: /
 </div>
 <div class="block with-avatar">
     <p>
-        <a href="https://agjjQuery.org/" title="agjjQuery"><img src="/agjjQuery.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="agjjQuery" class="avatar" /><strong>agjjQuery</strong></a> is a collection of plugins for the <a href="https://jquery.com/" title="jQuery">jQuery</a> JavaScript library written in TypeScript. They were released under <a href="https://opensource.org/licenses/mit/" title="The MIT License">the MIT license</a>.
+        <a href="https://agjjQuery.org/" title="agjjQuery"><img src="/agjjQuery.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="agjjQuery" class="avatar" /><strong>agjjQuery</strong></a> is a collection of plugins for the <a href="https://jquery.com/" title="jQuery">jQuery</a> JavaScript library written in <a href="https://www.typescriptlang.org/" title="TypeScript">TypeScript</a>. They were released under <a href="https://opensource.org/licenses/mit/" title="The MIT License">the MIT license</a>.
     </p>
     <ul class="projects">
         <li>
