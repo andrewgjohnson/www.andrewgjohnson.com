@@ -7,10 +7,10 @@
         <meta name="description" content="Andrew G Johnson.com: Software Engineer, Web Developer and Technologist" />
         <meta name="keywords" content="Andrew G Johnson, software engineer, web developer, technologist, Winnipeg" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="shortcut icon" href="/favicon.ico" />
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon32x32.png">
+        <link rel="shortcut icon" href="/favicon.ico?_={{ site.time | date: '%Y%m%d%H%M%S' }}" />
+        <link rel="icon" href="/favicon.ico?_={{ site.time | date: '%Y%m%d%H%M%S' }}" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon32x32.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}">
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,400;0,700;1,400;1,700&family=Space+Grotesk:wght@400;700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" />
@@ -19,7 +19,6 @@
         {% else %}
             <link rel="stylesheet" href="/css/stylesheet.css" />
         {% endif %}
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" integrity="sha512-nMJjQudb6RMMr08oY6YSfNlEWl1l8XWuoOwNvtWXrrgVs8MCR8AZBB1tEAO+ogiI93gXtG1XPmg+bAP5DochSA==" crossorigin="anonymous" />
     </head>
     <body>
         <div id="container">

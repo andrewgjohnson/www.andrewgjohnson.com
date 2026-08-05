@@ -80,37 +80,37 @@ permalink: /
         <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/DOWNLOADS.md#packagist--php" title="Packagist Downloads"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/packagist.png" alt="Packagist Downloads" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/DOWNLOADS.md#npm--typescript--javascript" title="npm Downloads"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/npm.png" alt="npm Downloads" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/DOWNLOADS.md#rubygems--ruby" title="RubyGems Downloads"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/rubygems.png" alt="RubyGems Downloads" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/JEKYLL.md" title="Jekyll Theme Installs"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/jekyll.png" alt="Jekyll Theme Installs" /></a> <a href="https://github.com/andrewgjohnson/andrewgjohnson/blob/main/STARGAZERS.md" title="Stargazers"><img src="https://raw.githubusercontent.com/andrewgjohnson/andrewgjohnson/main/badges/stargazers.png" alt="Stargazers" /></a>
     </p>
     <p>
-        <a href="https://agjgd.org/" title="agjgd"><img src="/agjgd.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="agjgd" class="avatar" /><strong>agjgd</strong></a> is a collection of projects for <a href="https://www.php.net" title="PHP">PHP</a>’s <a href="https://www.php.net/manual/book.image.php" title="GD">GD</a> library. They were released under <a href="https://opensource.org/licenses/mit/" title="The MIT License">the MIT license</a>.
+        <a href="https://AgjGd.org/" title="AgjGd"><img src="/AgjGd.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="AgjGd" class="avatar" /><strong>AgjGd</strong></a> is a project that extends the functionality of <a href="https://www.php.net" title="PHP">PHP</a>’s <a href="https://www.php.net/manual/book.image.php" title="GD">GD</a> library. It was released under <a href="https://opensource.org/licenses/mit/" title="The MIT License">the MIT license</a>.
     </p>
     <ul class="projects">
         <li>
-            <a href="https://imageblendedcolorallocate.agjgd.org/" title="imageblendedcolorallocate">imageblendedcolorallocate</a>
+            <a href="https://agjgd.org/methods/imageblendedcolorallocate/" title="imageblendedcolorallocate">imageblendedcolorallocate</a>
         </li>
         <li>
-            <a href="https://imagecolorallocatefromstring.agjgd.org/" title="imagecolorallocatefromstring">imagecolorallocatefromstring</a>
+            <a href="https://agjgd.org/methods/imagecolorallocatefromstring/" title="imagecolorallocatefromstring">imagecolorallocatefromstring</a>
         </li>
         <li>
-            <a href="https://imagegradientrectangle.agjgd.org/" title="imagegradientrectangle">imagegradientrectangle</a>
+            <a href="https://agjgd.org/methods/imagegradientrectangle/" title="imagegradientrectangle">imagegradientrectangle</a>
         </li>
         <li>
-            <a href="https://imagettftextblur.agjgd.org/" title="imagettftextblur">imagettftextblur</a>
+            <a href="https://agjgd.org/methods/imagettftextblur/" title="imagettftextblur">imagettftextblur</a>
         </li>
         <li>
-            <a href="https://imagettftextgradient.agjgd.org/" title="imagettftextgradient">imagettftextgradient</a>
+            <a href="https://agjgd.org/methods/imagettftextgradient/" title="imagettftextgradient">imagettftextgradient</a>
         </li>
         <li>
-            <a href="https://linebreaks4imagettftext.agjgd.org/" title="linebreaks4imagettftext">linebreaks4imagettftext</a>
+            <a href="https://agjgd.org/methods/linebreaks4imagettftext/" title="linebreaks4imagettftext">linebreaks4imagettftext</a>
         </li>
     </ul>
     <ul class="platforms">
         <li>
-            <a href="https://agjgd.org/" title="Website">Website↗</a>
+            <a href="https://AgjGd.org/" title="Website">Website↗</a>
         </li>
         <li>
-            <a href="https://github.com/agjgd/agjgd" title="GitHub">GitHub↗</a>
+            <a href="https://github.com/andrewgjohnson/AgjGd" title="GitHub">GitHub↗</a>
         </li>
         <li>
-            <a href="https://packagist.org/packages/agjgd/agjgd" title="Packagist">Packagist↗</a>
+            <a href="https://packagist.org/packages/andrewgjohnson/agjgd" title="Packagist">Packagist↗</a>
         </li>
         <li>
             <a href="https://x.com/agjgdphp" title="𝕏.com">𝕏.com↗</a>
