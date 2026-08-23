@@ -163,7 +163,7 @@ permalink: /
 <div class="block with-avatar" id="ctc-block">
     <h2>Free Online Sports Pools</h2>
     <p>
-        <a href="https://www.startapool.com/" title="StartaPool.com"><img src="/start-a-pool.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="StartaPool.com" class="avatar" /><strong>StartaPool.com</strong></a> offers a free-to-try platform to manage sports pools for casual fans. If your family, friends, office or a group of any size is looking for a home for your next pool then we are your solution! Why wait?
+        <a href="https://www.startapool.com/" title="StartaPool.com"><img src="/start-a-pool.png?_={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="StartaPool" class="avatar" /><strong>StartaPool</strong></a> offers a free-to-try platform to manage sports pools for casual fans. If your family, friends, office or a group of any size is looking for a home for your next pool then we are your solution! Why wait?
     </p>
     <ul class="platforms">
         <li>
