@@ -169,6 +169,9 @@ permalink: /
         <li>
             <a href="https://www.startapool.com/" title="Website">Website↗</a>
         </li>
+        <li>
+            <a href="https://apps.apple.com/ca/app/startapool/id6803674557" title="iPhone App">iPhone App↗</a>
+        </li>
     </ul>
 </div>
 <div class="block with-avatar" id="ctc-block">
